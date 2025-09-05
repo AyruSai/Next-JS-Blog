@@ -1,7 +1,7 @@
 # Next.js Blog Project
 
 This project is a simple **blog application** built using [Next.js Pages Router](https://nextjs.org/learn-pages-router).  
-I created this while following the official Next.js tutorial to understand the fundamentals of building full-stack applications with Next.js.
+I created this while following the official Next.js tutorial to gain an understanding of the fundamentals of building full-stack applications with Next.js.
 
 ---
 
@@ -40,9 +40,13 @@ Clone the repo and install dependencies:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
+```
+---
 
-Run the development server:
-
+## Run the development server:
+```bash
 npm run dev
+```
+---
 
 Open http://localhost:3000 in your browser to see the result.
